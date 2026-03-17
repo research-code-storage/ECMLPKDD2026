@@ -1,0 +1,16 @@
+{
+  "age": "None",
+  "sex": "None",
+  "cp": "None",
+  "trestbps": "resting blood pressure (on admission to the hospital)",
+  "chol": "serum cholestoral",
+  "fbs": "fasting blood sugar > 120 mg/dl",
+  "restecg": "None",
+  "thalach": "maximum heart rate achieved",
+  "exang": "exercise induced angina",
+  "oldpeak": "ST depression induced by exercise relative to rest",
+  "slope": "None",
+  "ca": "number of major vessels (0-3) colored by flourosopy",
+  "thal": "None",
+  "num": "diagnosis of heart disease"
+}

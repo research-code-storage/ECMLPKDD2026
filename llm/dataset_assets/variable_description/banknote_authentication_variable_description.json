@@ -1,0 +1,7 @@
+{
+  "variance": "variance of Wavelet Transformed image",
+  "skewness": "skewness of Wavelet Transformed image",
+  "curtosis": "curtosis of Wavelet Transformed image",
+  "entropy": "entropy of image",
+  "class": "None"
+}

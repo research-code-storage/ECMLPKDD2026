@@ -1,0 +1,29 @@
+1. bp(Diastolic)
+2. bp limit
+3. sg
+4. al
+5. class
+6. rbc
+7. su
+8. pc
+9. pcc
+10. ba
+11.bgr
+12. bu
+13. sod
+14. sc
+15. pot
+16. hemo
+17. pcv
+18. rbcc
+19. wbcc
+20. htn
+21. dm
+22. cad
+23. appet
+24. pe
+25. ane
+26. grf
+27. stage
+28. affected
+29. age

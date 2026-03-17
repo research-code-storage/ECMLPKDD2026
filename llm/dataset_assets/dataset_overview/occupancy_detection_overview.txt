@@ -1,0 +1,3 @@
+Three data sets are submitted, for training and testing. Ground-truth occupancy was obtained from time stamped pictures that were taken every minute.
+For the journal publication, the processing R scripts can be found in:
+https://github.com/LuisM78/Occupancy-detection-data

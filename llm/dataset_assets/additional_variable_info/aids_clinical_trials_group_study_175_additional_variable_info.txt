@@ -1,0 +1,4 @@
+- Personal information (age, weight, race, gender, sexual activity)
+- Medical history (hemophilia, history of IV drugs)
+- Treatment history (ZDV/non-ZDV treatment history)
+- Lab results (CD4/CD8 counts)

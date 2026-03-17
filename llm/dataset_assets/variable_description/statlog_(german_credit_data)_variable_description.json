@@ -1,0 +1,23 @@
+{
+  "Attribute1": "Status of existing checking account",
+  "Attribute2": "Duration",
+  "Attribute3": "Credit history",
+  "Attribute4": "Purpose",
+  "Attribute5": "Credit amount",
+  "Attribute6": "Savings account/bonds",
+  "Attribute7": "Present employment since",
+  "Attribute8": "Installment rate in percentage of disposable income",
+  "Attribute9": "Personal status and sex",
+  "Attribute10": "Other debtors / guarantors",
+  "Attribute11": "Present residence since",
+  "Attribute12": "Property",
+  "Attribute13": "Age",
+  "Attribute14": "Other installment plans",
+  "Attribute15": "Housing",
+  "Attribute16": "Number of existing credits at this bank",
+  "Attribute17": "Job",
+  "Attribute18": "Number of people being liable to provide maintenance for",
+  "Attribute19": "Telephone",
+  "Attribute20": "foreign worker",
+  "class": "1 = Good, 2 = Bad"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "None",
+  "date": "None",
+  "Temperature": "None",
+  "Humidity": "None",
+  "Light": "None",
+  "CO2": "None",
+  "HumidityRatio": "None",
+  "Occupancy": "0 for not occupied, 1 for occupied status"
+}
