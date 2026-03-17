@@ -1,0 +1,14 @@
+# --- Python関連 ---
+# uvの仮想環境
+.venv/
+# キャッシュファイル
+__pycache__/
+*.py[cod]
+*~
+
+out*
+# --- OS関連 ---
+.DS_Store
+Thumbs.db
+
+

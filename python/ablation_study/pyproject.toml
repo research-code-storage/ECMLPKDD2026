@@ -1,0 +1,18 @@
+[project]
+name = "26-0226-mat-to-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cython>=3.0",
+    "lightgbm>=4.0",
+    "matplotlib>=3.10.0",
+    "numpy>=2.4.2",
+    "openpyxl>=3.1",
+    "pandas>=3.0.1",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.15.0",
+    "setuptools>=80.0.0",
+    "xgboost>=2.0",
+]

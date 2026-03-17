@@ -1,0 +1,22 @@
+# --- Python関連 ---
+# uvの仮想環境
+.venv/
+# キャッシュファイル
+__pycache__/
+*.py[cod]
+*~
+
+# グラフなどの出力結果
+output/
+figures/
+*.png
+*.pdf
+*.jpg
+
+# --- OS関連 ---
+.DS_Store
+Thumbs.db
+
+
+
+
